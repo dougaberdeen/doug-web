@@ -1,4 +1,3 @@
-# This is the Markup version
+# Doug's Not-a-Blog
 
-Of index. Which one is the default?
-This should be rendered in the minima Jekyll theme.
+This isn't my blog. I don't have one. This is a collection of random writings from when I'm feeling inspired.
